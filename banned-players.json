@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b96b20e7-8838-443b-a3db-8a2531cde001",
+    "name": "Noahrokers010",
+    "created": "2020-04-13 21:03:33 +0200",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "griefing"
+  },
+  {
+    "uuid": "b595843b-4d3c-4cf2-9244-530357d4bbda",
+    "name": "Zeezuz",
+    "created": "2020-04-19 18:43:02 +0200",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "griefing"
+  },
+  {
+    "uuid": "92007a60-74e2-4a0c-8e42-61d6dd2087c8",
+    "name": "CodsWorth1337",
+    "created": "2020-04-19 12:31:11 +0200",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "griefing"
+  }
+]
